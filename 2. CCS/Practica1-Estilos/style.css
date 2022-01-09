@@ -1,17 +1,14 @@
 h1{
     background-color: black;
 }
-h2{
-    background-color: rebeccapurple;
-}
-h3{
-    background-color: royalblue;
-}
+
 
 #centrado{
     text-align: center;
+    background-color: rebeccapurple;
 }
 
 #derecha{
     text-align: left;
+    background-color: royalblue;
 }
