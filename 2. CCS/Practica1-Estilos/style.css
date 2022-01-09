@@ -7,3 +7,11 @@ h2{
 h3{
     background-color: royalblue;
 }
+
+#centrado{
+    text-align: center;
+}
+
+#derecha{
+    text-align: left;
+}
