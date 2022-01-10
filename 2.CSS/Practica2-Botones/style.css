@@ -1,6 +1,10 @@
-#boton{
-    background-color: blanchedalmond;
-    color: cyan;
-    width: 960 px;
-    border: 1px cyan;
+.botonSubmit{
+    width: 600 px;
+    height: 800 px;
+    padding: 100 px;
+    background-color: honeydew;
+    color: lightseagreen;
+    font-weight: bold;
+    border: radius 20px; 
+    border: solid lightseagreen;
 }
