@@ -1,4 +1,6 @@
 #boton{
-    padding: 5px;
-    border-color: aqua;
+    background-color: blanchedalmond;
+    color: cyan;
+    width: 960 px;
+    border: 1px cyan;
 }
