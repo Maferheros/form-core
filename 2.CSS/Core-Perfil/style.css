@@ -1,0 +1,171 @@
+*{
+    font-family: cursive;
+    margin: 0;
+    padding: 0;
+}
+
+.top{
+    background-color: black;
+}
+
+.inicio{
+    width: 1080px;
+    margin: 0 auto;
+    color: #ffffff;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.links{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: space-around;
+}
+
+.inicio a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.title{
+    margin-left: 20px;
+}
+
+.boton{
+    height: 35px;
+    width: 100px;
+    background-color: #17a2b8;
+    color: #ffffff;
+    border: none;
+    font-size: 16px;
+    box-shadow: 5px 5px #000000;
+}
+
+.contenedor1 {
+    width: 1080px;
+    margin: 0 auto;
+}
+
+.celeste {
+    display: flex;
+}
+
+.celeste a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#perfil {
+    border-radius: 50%;
+    background-color: #fff;
+    height: 190px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.pantalla {
+    flex: 2;
+}
+
+.elemento{
+    height: 20px;
+}
+
+.c {
+    background-color: #17a2b8;
+    height: 125px;
+    margin-bottom: 70px;
+}
+
+.d {
+    padding: 20px;
+}
+
+
+.contenedor, .pantalla {
+    margin: 10px;
+    padding: 10px;
+    flex: 1;
+}
+
+.b, .carta {
+    width: 100%;
+    background-color: #fff;
+    border: 2px solid #999;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    overflow: hidden;
+}
+
+.cuerpo {
+    padding: 20px;
+}
+
+.cuerpo h1, 
+.cuerpo h2,
+.cuerpo h3,
+.cuerpo p {
+    margin: 20px 0px;
+}
+
+.titulo {
+    background-color: #333333;
+    padding: 20px;
+    color: #ffffff;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+}
+
+
+.conexiones {
+    background-color: #eee;
+    color: #333;
+    font-size: 20px;
+    border-radius: 12px;
+    height: 24px;
+    padding: 0 10px;
+    margin-right: 10px;
+}
+
+.linea {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+
+.start, .end {
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+}
+
+.persona {
+    border-radius: 50%;
+    height: 48px;
+    margin-right: 10px;
+}
+
+
+.user-line {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.dias {
+    font-size: 20px;
+    color: #777;
+}
+.piedepag {
+    padding: 20px;
+    border-top: 2px solid #999;
+    color: blue;
+}
